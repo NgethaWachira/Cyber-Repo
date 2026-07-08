@@ -4,7 +4,7 @@ This repository documents a collection of projects and exercises that highlight 
 ## About Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/james-ngetha/)
 
-I am cybersecurity professional with a strong background in Identity management, Malware analysis, Network, Endpoint and Cloud Security. I specialize in safeguarding digital assets and ensuring robust security measures for organizations.
+I am cybersecurity professional with a strong background in Identity Access Management, Network, Endpoint and Cloud Security. I specialize in safeguarding digital assets and ensuring robust security measures for organizations.
 
 ## Objective
 To apply my strong foundation in cybersecurity to specialize in fortifying systems and networks against evolving threats. Driven by a passion for building robust defense mechanisms, I aim to use my expertise in identifying vulnerabilities and deploying strategies to safeguard data from complex cyber attacks. Committed to staying prepared and continuously evolving in the ever-changing cybersecurity landscape.
