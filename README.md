@@ -28,11 +28,6 @@ To apply my strong foundation in cybersecurity to specialize in fortifying syste
 | 12 | Exploring Threat Management and Hunting Queries in Microsoft Sentinel | <a href="https://github.com/NgethaWachira/Investigating-Threats-Using-Sentinel-Queries">Investigating Threats Using Sentinel Queries</a>|
 
 
-## Tools
-<br>
-
-> "A tool is just a tool—it’s the skill and knowledge behind it that truly matter. Once you understand how to use one tool effectively, that knowledge can easily be applied to others."
-
 
 ## Certifications
 <div style="display: flex; flex-wrap: wrap;">
